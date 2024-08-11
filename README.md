@@ -24,7 +24,7 @@ You will be prompted to confirm before resources are created.
 
 ### 4. Access the Jenkins server
 Once the EC2 instance is up and running, you can access Jenkins by navigating to the public IP of the instance in your browser on port 8080:
-http://<ec2-public-ip>:8080 OR http://localhost:8080
+http://ec2-public-ip:8080 OR http://localhost:8080
 
 ## Terraform Configuration
 
